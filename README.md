@@ -5,3 +5,4 @@
 | Image on Docker Hub     | [Dockehub](https://hub.docker.com/r/gravityfargo/quartz-docker)                                |
 | Image Source            | [Forgejo - gravityfargo/quartz-docker](https://code.modernleft.org/gravityfargo/quartz-docker) |
 | Issue Tracker           | [GitHub - gravityfargo/quartz-docker](https://github.com/gravityfargo/quartz-docker/issues)    |
+| Image Documentation     | [ModernLeft Docs](https://docs.modernleft.org/Docker-Images/quartz)                            |
